@@ -1,0 +1,143 @@
+/* *{
+    margin: 0px ;
+    padding :0px
+} */
+.background-image{
+    position: relative;
+    background-image: url(../Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px; 
+    margin: 60px auto;
+}
+.hap{
+   
+    color: #FFF;
+    text-align: center; 
+    font-size: 32px;
+    margin-bottom: 0px;
+    padding-top: 177px;
+   
+    
+}
+ .new{
+    color: #FFF;
+     text-align:center ; 
+     font-size: 72px;
+     margin-bottom: 16px; 
+  
+} 
+.per{
+
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    margin-top: 120px;
+}
+.our{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 48px;
+
+}
+.all{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 16px;
+}
+.new-year-img{
+    width: 802.9px;
+    height: 500px;
+    margin-top: 48px;
+    margin-right: 398px;
+    margin-left: 398px;
+}
+.vector{
+    position: relative;
+    background-image: url('../Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px; 
+    margin: 60px auto;
+
+}
+.posiition{
+    margin-top: 120px;
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding:68px 138px 67px 862px;
+   
+
+}
+.text-primary{
+    color: #F00;
+    font-size: 32px;
+    font-weight: 600;
+ 
+
+}
+.title{
+    text-align: center;
+    padding-top: 100px;
+    padding-right:394px;
+    padding-left: 385px;
+}
+.banner1{
+    width: 1320px;
+    height: 482px;
+     background-color:  #FFF8F3;
+     margin: 60px auto;
+     
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    color: white;
+    padding: 16px 32px;
+    margin-top: 48px;
+    margin-right: 570px;
+    margin-left: 570px;
+    margin-bottom: 110px;
+    gap: 10px;
+
+}
+.b-offer{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.container{
+    width: 87%;
+    max-width: 1440px;
+    margin: 20px auto;
+}
+.banner{
+    display: flex;
+
+}
+
+.ban1-tex{
+    text-align: center;
+
+
+}
+.banner-img1{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+
+
+
+}
+
+
+
+
+
+
+
+
