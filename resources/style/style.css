@@ -1,7 +1,4 @@
-/* *{
-    margin: 0px ;
-    padding :0px
-} */
+
 .background-image{
     position: relative;
     background-image: url(../Banner\ Image.png);
@@ -125,14 +122,109 @@
 
 
 }
-.banner-img1{
-    width: 1600px;
-    height: 7335px;
+ .banner-img1{
+    
+     background: #FFF; 
+
+ } 
+ .img3{
+     background-image: url('../Rectangle\ 2.png'); 
+     background-repeat: no-repeat;
+     width: 1320px;
+    height: 229px; 
+    border-radius: 16px 0px 16px 16px;
+    background: #F00; 
+ }
+
+
+.img4{
+    background-image: url('../Rectangle\ 1.png');
+    padding-left: 1030px;
+    padding-right: 140px; 
+    padding-top: 64px;
+    background-repeat: no-repeat;
+}
+.span{
+    color: #F00;
+}
+.best-gift{
+    color: #F00;
+    
+}
+.setion-title{
+    padding-top: 120px;
+}
+.main-section{
+   margin-left: 80px ;
+}
+.skill-container1 , .skill-container2{
+    display: flex;
+    gap: 24px;
+    padding-top: 48px;
+}
+.container .email input{
+    width: 648px;
+    height: 72px;
+    padding: 25px 475px 25px 30px;
+    border-radius: 50px;
     background: #FFF;
-
-
+    
+}
+.container .email button{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px; 
+    background: #F00;
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 26px;
+    border: none;
+    right: 280px;
+    margin-top:26px;
+}
+.image{
+    text-align: center;
+    padding: 80px;
+}
+.subs{
+color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 900;
+padding: 48px 336px 80px 336px ;
+}
+.foot-container{
+    position: relative;
+    text-align: center;
+    color: white;
+   background-color: #070211;
+}
+.top-left{
+    position: absolute;
+    padding: 120px 1085px 409px 140px;
 
 }
+.top-right {
+    position: absolute;
+    padding:120px 290px 449px 1114px ;
+
+}
+.bottom-left{
+    position: absolute;
+    padding:460px 1165px 120px 140px ;
+}
+.bottom-right{
+    position:absolute;
+    padding: 460px 140px 120px 1315px;
+}
+
+.centered{
+    padding-top: 298px;
+    padding-bottom: 247px;
+   
+}
+
 
 
 
